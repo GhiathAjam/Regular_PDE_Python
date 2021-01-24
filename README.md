@@ -11,5 +11,5 @@ This code is part of a project called: [Mathemati_](https://github.com/abdullaha
 (still unfinihsed)
 - [Ghieath](https://github.com/GhiathAjam)
 - [Michael Aziz](https://github.com/Makrion)
-- [Elonsol-Mostafe](https://github.com/elonsolmostafa1)
+- [Elonsol-Mostafa](https://github.com/elonsolmostafa1)
 - [Ahmed Mahmoud Alghareeb]
